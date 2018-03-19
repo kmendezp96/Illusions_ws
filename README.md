@@ -31,6 +31,10 @@ Complete la tabla:
 | chaser spinning        | phi phenomenon          | https://www.youtube.com/watch?v=XgvVH9YBb5M            |                                    |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+Se analizaron distintas ilusiones ópticas, en algunos casos optamos por implementarlas tal como las vimos, en otras se tomo la idea base de la ilusión y se modifico para producir un efecto similar o relacionado.
+
+También intentamos implementar un patrón de Moiré ya que nos pareció muy interesante, mas esto no fue posible y por eso no lo incluimos, aunque nos interesaría profundizar en como lograr una implementación correcta de este efecto y su funcionamiento.
+
 
 ## Entrega
 
