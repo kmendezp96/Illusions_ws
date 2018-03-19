@@ -13,17 +13,17 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
-
+|          Integrante          |      github nick       |
+|------------------------------|------------------------|
+| Kevin Mendez Paez            | kmendezp96             |
+| Andres Felipe Forero Correa  | afforeroc              |
 ## Discusión
 
 1. Complete la la tabla
 
-| Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
-|---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
+| Ilusión            | Categoria    | Referencia                                           | Tipo de interactividad (si aplica) | URL código base (si aplica) |
+|--------------------|-------------|-------------------------------------------------------|------------------------------------|------------------------------|
+| Café wall illusion | Geométricas | https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion |                                     |                                  |
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
