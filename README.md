@@ -23,12 +23,12 @@ Complete la tabla:
 
 | Ilusión            | Categoria    | Referencia                                           | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |--------------------|-------------|-------------------------------------------------------|------------------------------------|------------------------------|
-| Café wall illusion | Geométricas | https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion |                                     |                                  |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+| Café wall illusion | Geométrica | https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion |                                     |                                  |
+| spiral aftereffect         | Motion aftereffect           | https://en.wikipedia.org/wiki/Motion_aftereffect           |                                    |                             |
+| footsteps illusion        | Geométrica/contraste           | http://journals.sagepub.com/doi/pdf/10.1177/2041669515622085           | al oprimir "a" el fondo se vuelve blanco, revelando que los cuadrados se mueven a una misma velocidad totalmente alineados                                   |                             |
+| Necker cube        | Ambigua          | https://en.wikipedia.org/wiki/Necker_cube           | al hacer click sobre la ilusion esta cambia la dirección de las flechas como guia                                   |                             |
+| circle expands        |  filling-in          | https://en.wikipedia.org/wiki/Filling-in           |                                    |                             |
+| chaser spinning        | phi phenomenon          | https://www.youtube.com/watch?v=XgvVH9YBb5M            |                                    |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
